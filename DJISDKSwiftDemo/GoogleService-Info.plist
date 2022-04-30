@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>744414103327-08jcmd13stqettvgvfqhhm7ck9vom1b0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.744414103327-08jcmd13stqettvgvfqhhm7ck9vom1b0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARIcOcWqZwOCh-fyHIB4_tOcIGirdjmkU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>744414103327</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dji.swiftSampleDemo.Test</string>
+	<key>PROJECT_ID</key>
+	<string>ml-firebase-9a475</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ml-firebase-9a475.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:744414103327:ios:ae4f68be3bc35883b4922a</string>
+	<key>DATABASE_URL</key>
+	<string>https://ml-firebase-9a475-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
